@@ -1,0 +1,8 @@
+.header {
+  background: #eee;
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+}

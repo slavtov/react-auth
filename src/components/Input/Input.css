@@ -1,0 +1,15 @@
+.form-input {
+  margin-bottom: 10px;
+}
+
+.input {
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 3em;
+  font-size: .9em;
+}
+
+.input:focus {
+  border-color: #bbb;
+  box-shadow: 0 0 10px #eee;
+}

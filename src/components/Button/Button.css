@@ -1,0 +1,25 @@
+.button {
+  color: #fff;
+  border: none;
+  border-radius: 3em;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.button-success {
+  background: #1dc038;
+  color: white;
+}
+
+.button-primary {
+  background: #2499cf;
+  color: white;
+}
+
+.button-small {
+  padding: 7px 14px;
+}
+
+.button-middle {
+  padding: 10px 25px;
+}

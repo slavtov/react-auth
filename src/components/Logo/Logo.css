@@ -1,0 +1,7 @@
+.logo {
+  display: flex;
+  align-items: center;
+  color: #000;
+  text-decoration: none;
+  white-space: nowrap;
+}

@@ -1,0 +1,26 @@
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.menu ul {
+  display: flex;
+}
+
+.menu li {
+  margin: 0 3px;
+  list-style-type: none;
+}
+
+.menu a {
+  padding: 7px 14px;
+  color: #000;
+  text-decoration: none;
+}
+
+.menu a.active {
+  background: #ddd;
+  border-radius: 3em;
+}
